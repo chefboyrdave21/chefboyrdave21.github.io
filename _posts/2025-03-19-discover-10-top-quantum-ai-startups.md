@@ -9,4 +9,8 @@ categories: quantum ai
 
 This article features 10 companies that are using quantum computing and AI to tackle challenges in data security, drug discovery, financial risk, and more.
 
+Source: [StartUs Insights](https://www.startus-insights.com/innovators-guide/quantum-ai-startups/)
+
+Summary: This article features 10 companies that are using quantum computing and AI to tackle challenges in data security, drug discovery, financial risk, and more.
+
 <!-- Add info graph here -->

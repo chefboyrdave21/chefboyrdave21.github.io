@@ -9,4 +9,8 @@ categories: quantum ai
 
 Find the latest Quantum Computing news, data, market research, and insights. To stay up to date with the quantum market click here!
 
+Source: [The Quantum Insider](https://thequantuminsider.com/)
+
+Summary: Find the latest Quantum Computing news, data, market research, and insights. To stay up to date with the quantum market click here!
+
 <!-- Add info graph here -->

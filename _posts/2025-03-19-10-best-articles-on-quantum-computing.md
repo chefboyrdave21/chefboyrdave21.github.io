@@ -9,4 +9,8 @@ categories: quantum ai
 
 The most useful articles on quantum computing, beginners to advanced.
 
+Source: [Refind – Brain food, delivered daily](https://refind.com/hashtags/quantum-computing)
+
+Summary: The most useful articles on quantum computing, beginners to advanced.
+
 <!-- Add info graph here -->

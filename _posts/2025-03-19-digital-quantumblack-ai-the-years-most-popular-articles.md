@@ -9,4 +9,8 @@ categories: quantum ai
 
 Top 10 | Digital & QuantumBlack, AI · 1. McKinsey Technology Trends Outlook 2022﻿ · 2. The data-driven enterprise of 2025 · 3. What is the metaverse—and what does ...
 
+Source: [McKinsey & Company](https://www.mckinsey.com/~/media/McKinsey/Email/Top-Ten/2022/2022-12-20d.html)
+
+Summary: Top 10 | Digital & QuantumBlack, AI · 1. McKinsey Technology Trends Outlook 2022﻿ · 2. The data-driven enterprise of 2025 · 3. What is the metaverse—and what does ...
+
 <!-- Add info graph here -->

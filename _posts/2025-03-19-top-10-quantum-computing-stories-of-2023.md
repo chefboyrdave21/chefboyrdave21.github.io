@@ -9,4 +9,8 @@ categories: quantum ai
 
 Deloitte predicts 2024 will be a breakthrough year for post-quantum cryptography · How quantum computing can optimize the energy grid · Microsoft ...
 
+Source: [SDxCentral](https://www.sdxcentral.com/articles/analysis/top-10-quantum-computing-stories-of-2023/2023/12/)
+
+Summary: Deloitte predicts 2024 will be a breakthrough year for post-quantum cryptography · How quantum computing can optimize the energy grid · Microsoft ...
+
 <!-- Add info graph here -->

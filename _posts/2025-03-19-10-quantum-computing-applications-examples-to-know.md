@@ -9,4 +9,8 @@ categories: quantum ai
 
 10 Quantum Computing Applications to Know · Artificial intelligence · Better batteries · Cleaner fertilization · Cybersecurity · Drug development · Electronic ...
 
+Source: [Built In](https://builtin.com/hardware/quantum-computing-applications)
+
+Summary: 10 Quantum Computing Applications to Know · Artificial intelligence · Better batteries · Cleaner fertilization · Cybersecurity · Drug development · Electronic ...
+
 <!-- Add info graph here -->

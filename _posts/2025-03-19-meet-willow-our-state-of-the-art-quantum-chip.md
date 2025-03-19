@@ -9,4 +9,8 @@ categories: quantum ai
 
 Google has developed a new quantum chip called Willow, which significantly reduces errors as it scales up, a major breakthrough in quantum error correction.
 
+Source: [Google Blog](https://blog.google/technology/research/google-willow-quantum-chip/)
+
+Summary: Google has developed a new quantum chip called Willow, which significantly reduces errors as it scales up, a major breakthrough in quantum error correction.
+
 <!-- Add info graph here -->

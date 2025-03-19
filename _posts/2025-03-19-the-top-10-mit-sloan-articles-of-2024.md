@@ -9,4 +9,8 @@ categories: quantum ai
 
 A piece on federal spending took the top spot. Here are the most popular stories published by MIT Sloan's Ideas Made to Matter this year.
 
+Source: [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/top-10-mit-sloan-articles-2024)
+
+Summary: A piece on federal spending took the top spot. Here are the most popular stories published by MIT Sloan's Ideas Made to Matter this year.
+
 <!-- Add info graph here -->
